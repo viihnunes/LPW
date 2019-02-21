@@ -1,0 +1,90 @@
+input{
+    margin-top: 10px;
+    border-style: solid;
+    font-family: Arial;
+}
+.tam{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;;
+}
+#titulo{
+    height: 100px;
+    width: 700px;
+    font-family: verdana;
+    font-size: 26;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    background: black;
+    border-style: solid;
+}
+#valor1{
+   font-family: Arial;
+    font-size: 16; 
+}
+#valor2{
+   font-family: Arial;
+    font-size: 16; 
+}
+#rdo_operacao{
+   margin-top: 20px; 
+}
+#title_resu{
+    height: 30px;
+    width: 300px;
+    float: right;
+    padding-top: 5px;
+    margin-right: 1205px;
+    margin-top: 10px;
+    background: black;
+    font-family: verdana;
+    font-size: 20;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    border-style: groove;
+    border-color: black;
+    border-bottom-color: white;
+}
+#resultado{
+    height: 250px;
+    width: 300px;
+    float: right;
+    font-family: verdana;
+    font-size: 30;
+    color: black;
+    font-weight: bold;
+    padding-top: 0px;
+    margin-right: 1205px;
+    border-style: groove;
+    border-color: black;
+    text-align: center;
+}
+#btn_calcular{
+    margin-top: 5px;
+}
+#bt_calc{
+    border-style: groove;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.rdo{
+    height: auto;
+    width: 100px;
+    font-family: monospace;
+    font-size: 20px;
+}
+.rdo:hover{
+    font-size: 22px;
+    color: coral;
+}
+.erro{
+    color: red;
+    font-size: 16px;
+}
